@@ -79,11 +79,6 @@ html
     width: 100%;
 }
 
-#main 
-{
-
-}
-
 #header 
 {
     height: 46px;
@@ -189,7 +184,7 @@ html
     position: relative;
     margin-top: 46px;
     padding-top: 50%;
-    background: url(/Web/w3_band/assets/img/slider/ny.jpg) top center / cover no-repeat;
+    background: url(/assets/img/slider/ny.jpg) top center / cover no-repeat;
 }
 
 #slider .text-content 
@@ -213,11 +208,6 @@ html
 #slider .text-decription 
 {
     font-size: 15px;
-}
-
-#content 
-{
-    
 }
 
 #content .content-section
